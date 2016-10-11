@@ -1,0 +1,23 @@
+{
+  "name": "arlo-base",
+  "version": "0.0.1",
+  "author": "Tian Zhang <khaos.tian@gmail.com>",
+  "description": "Arlo base station implementation",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "hap-nodejs": "0.4.11",
+    "ip": "^1.1.3",
+    "netmask": "^1.0.6",
+    "node-uuid": "^1.4.7",
+    "node-dhcpd": "git://github.com/KhaosT/node-dhcpd",
+    "rtsp-stream": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhaosT/arlo-base.git"
+  }
+}
